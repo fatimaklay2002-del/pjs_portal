@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "994847387400",
+    "project_id": "journalists-syndicate",
+    "storage_bucket": "journalists-syndicate.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994847387400:android:dea0f310b7602e609f46bd",
+        "android_client_info": {
+          "package_name": "com.pjs.pjs_portal.pjs_portal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9fMk_x-dLEa_I3821AcRja9q4SBwWQ3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
